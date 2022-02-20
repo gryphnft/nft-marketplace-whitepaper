@@ -13,10 +13,11 @@
 ## 3. TECHNOLOGY
 
 * [3.1. Technology Overview](3.-technology/3.1.-overview.md)
-* [3.2. Contract Templates](3.-technology/3.2.-contract-templates.md)
-* [3.3. Lazy Minting and Gasless Whitelisting](3.-technology/3.3.-lazy-minting-and-gasless-whitelisting.md)
-* [3.4. Marketplace](3.-technology/3.4.-marketplace.md)
-* [3.5. Royalties](3.-technology/3.5.-royalties.md)
+* [3.2. Contracts](3.-technology/3.2.-contracts.md)
+* [3.3. Marketplace](3.-technology/3.3.-marketplace.md)
+* [3.4. Royalties](3.-technology/3.4.-royalties.md)
+* [3.5. Gasless Transactions](3.-technology/3.5.-gasless-transactons.md)
+
 
 ## 4. TOKENOMICS
 
