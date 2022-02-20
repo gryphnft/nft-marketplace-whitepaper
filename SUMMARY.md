@@ -22,4 +22,4 @@
 
 * [4.1. Tokenomics Overview](4.-tokenomics/4.1.-overview.md)
 * [4.2. Token Utility](4.-tokenomics/4.2.-token-utility.md)
-* [4.3. Token Distibution](4.-tokenomics/4.3.-token-distribution.md)
+* [4.3. Token Distribution](4.-tokenomics/4.3.-token-distribution.md)
