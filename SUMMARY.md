@@ -22,8 +22,4 @@
 
 * [4.1. Tokenomics Overview](4.-tokenomics/4.1.-overview.md)
 * [4.2. Token Utility](4.-tokenomics/4.2.-token-utility.md)
-* [4.3. Economics](4.-tokenomics/4.3.-economics.md)
-* [4.4. Token Sale Mechanics](4.-tokenomics/4.4.-token-sale-mechanics.md)
-* [4.5. Token Distribution](4.-tokenomics/4.5.-token-distribution.md)
-* [4.6. Private Sale](4.-tokenomics/4.6.-private-sale.md)
-* [4.7. Public Sale](4.-tokenomics/4.7.-public-sale.md)
+* [4.3. Token Distibution](4.-tokenomics/4.3.-token-distribution.md)
