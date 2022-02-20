@@ -3,7 +3,7 @@
 ## 1. PROLOGUE
 
 * [1.1. ABSTRACT](README.md)
-* [1.2. BACKGROUND](1.-prologue/1.2-background.md)
+* [1.2. BACKGROUND](1.-prologue/1.2.-background.md)
 
 ## 2. SOLUTION
 
