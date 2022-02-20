@@ -16,7 +16,7 @@
 * [3.2. Contracts](3.-technology/3.2.-contracts.md)
 * [3.3. Marketplace](3.-technology/3.3.-marketplace.md)
 * [3.4. Royalties](3.-technology/3.4.-royalties.md)
-* [3.5. Gasless Transactions](3.-technology/3.5.-gasless-transactons.md)
+* [3.5. Gasless Transactions](3.-technology/3.5.-gasless-transactions.md)
 
 
 ## 4. TOKENOMICS
