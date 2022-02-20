@@ -17,6 +17,7 @@
 * [3.3. Marketplace](3.-technology/3.3.-marketplace.md)
 * [3.4. Royalties](3.-technology/3.4.-royalties.md)
 * [3.5. Gasless Transactions](3.-technology/3.5.-gasless-transactions.md)
+* [3.6. Technical Roadmap](3.-technology/3.6.-roadmap.md)
 
 
 ## 4. TOKENOMICS
