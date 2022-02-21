@@ -10,8 +10,9 @@ The **$GRYPH** token is used throughout the marketplace. It will be consumed in 
 
 ## Official Links
 
- * **Website**: [gry.ph](https://gry.ph/)
- * **GitHub**: [gryphnft](https://github.com/gryphnft/)
- * **Twitter**: [@GryphNFT](https://twitter.com/GryphNFT)
- * **Discord**: [#gryph](https://discord.gg/PZDyNcVSNu)
- * **Telegram**: [gryphglobalcommunity](https://t.me/gryphglobalcommunity/)
+* **Website**: [gry.ph](https://gry.ph)
+* **GitHub**: [gryphnft](https://github.com/gryphnft/)
+* **Twitter**: [@GryphNFT](https://twitter.com/GryphNFT)
+* **Discord**: [#gryph](https://discord.gg/PZDyNcVSNu)
+* **Telegram**: [gryphglobalcommunity](https://t.me/gryphglobalcommunity/)
+* **Instagram**: gryphnft
