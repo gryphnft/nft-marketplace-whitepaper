@@ -15,4 +15,4 @@ The **$GRYPH** token is used throughout the marketplace. It will be consumed in 
 * **Twitter**: [@GryphNFT](https://twitter.com/GryphNFT)
 * **Discord**: [#gryph](https://discord.gg/PZDyNcVSNu)
 * **Telegram**: [gryphglobalcommunity](https://t.me/gryphglobalcommunity/)
-* **Instagram**: gryphnft
+* **Instagram**: [gryphnft](https://www.instagram.com/gryphnft/)
