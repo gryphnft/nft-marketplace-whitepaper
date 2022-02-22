@@ -30,3 +30,5 @@
 ## 5. Prologue
 
 * [5.1. FAQ](5.-prologue/5.1.-faq.md)
+* [5.2. Disclamer](5.-prologue/5.2.-disclamer.md)
+* [5.3. Team](5.-prologue/5.3.-team.md)
